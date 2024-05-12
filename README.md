@@ -1,2 +1,2 @@
 # LeticIA
-algo
+Testes para LeticIA
